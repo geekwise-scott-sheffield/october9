@@ -1,0 +1,53 @@
+
+/**{*/
+/*    border: 1px solid orange;*/
+    
+/*}*/
+
+html,body{
+    
+    margin:0;
+    padding:0;
+    
+    width: 100%;
+    height: 100vh;
+    
+}
+
+/*this will contain the navigation bar,
+geekwise text logo,
+and the upside down owl*/
+
+
+.header{
+    width: 100%;
+    height: 40%;
+    
+    text-align: center;
+    display: inline;
+    
+    
+    float: left;
+    
+}
+
+.logo_words{
+    
+    margin-top: .5%;
+    margin-left: 8%;
+    
+    
+}
+
+.header > a{
+    
+    
+    text-decoration: none;
+    color: black;
+}
+
+.owl_peek{
+    float: right;
+    
+    
+}
